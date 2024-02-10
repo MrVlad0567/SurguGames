@@ -1,7 +1,7 @@
 # SurguGames
 
-Стек:
+## Стек:
 
-Владислав Примак ()
-Александр Белов ()
-Иван Фролов ()
+**Владислав Примак** (Backend/Javascript)
+**Александр Белов** (Frontend/HTML/CSS/Javascript)
+**Иван Фролов** (Design/Figma)
