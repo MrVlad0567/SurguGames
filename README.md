@@ -2,6 +2,6 @@
 
 ## Стек:
 
-**Владислав Примак** (Backend/Javascript)
-**Александр Белов** (Frontend/HTML/CSS/Javascript)
+**Владислав Примак** (Backend/Javascript)\
+**Александр Белов** (Frontend/HTML/CSS/Javascript)\
 **Иван Фролов** (Design/Figma)
